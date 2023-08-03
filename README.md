@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raneru123&label=Profile%20views&color=0e75b6&style=flat" alt="raneru123" /> </p>
 
-- 👨‍💻 All of my projects are available at [raneruvenkatesh.netlify.app/](raneruvenkatesh.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://raneruvenkatesh.netlify.app/](https://raneruvenkatesh.netlify.app/)
 
 - ⚡ Fun fact **I am Funny**
 
